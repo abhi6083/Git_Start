@@ -1,0 +1,1 @@
+utiltiy function for version 1
